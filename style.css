@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column-reverse;
+}
+
+#foto-pokemon {
+    max-height: 200vh;
+}
+
+#nome-pokemon {
+    font-size: 2.5em;
+    font-variant: small;
+}
